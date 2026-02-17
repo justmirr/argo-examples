@@ -3,4 +3,4 @@ replicas: 3
 
 configmap:
   data:
-    CUSTOM_HEADER: 'A DEV environment thing!'
+    HEADER: 'In a DEV environment!'
